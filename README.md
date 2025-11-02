@@ -18,6 +18,6 @@ This Power BI project analyzes reseller sales performance using the AdventureWor
 - Compare reseller performance over time  
 
 ##  Screenshots
-![Dashboard Overview] (https://github.com/kUn1111111/PowerBI-ResellerSales-KPI/blob/main/Dashboard%20Overview.png)
-![KPI Discount] (https://github.com/kUn1111111/PowerBI-ResellerSales-KPI/blob/main/KPI%20Discount.png)
-![Profit Line Chart] (https://github.com/kUn1111111/PowerBI-ResellerSales-KPI/blob/main/Profit%20Line%20Chart.png)
+![Dashboard Overview] (https://bit.ly/4hEWrLW)
+![KPI Discount] (https://bit.ly/47BBuwO)
+![Profit Line Chart] (https://bit.ly/3LjPLqQ)
